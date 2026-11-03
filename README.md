@@ -1,5 +1,9 @@
 # 电商 AI 自动化开发者
 
+**[查看完整作品集：10 篇案例、架构图与独立演示 →](https://github.com/super-chestnut/portfolio)**
+
+[沟通项目需求](https://github.com/super-chestnut/portfolio/issues/new)
+
 I build practical AI workflows and software for e-commerce and content teams.
 
 我为电商与内容团队开发 AI 自动化工具，也独立开发移动应用。能够从业务问题出发，独立完成需求分析、流程设计、界面开发、系统集成、测试部署与迭代维护。
@@ -8,7 +12,7 @@ I build practical AI workflows and software for e-commerce and content teams.
 
 **我能交付的内容**
 
-- **AI 视频生产系统**：搭建分镜、人物口播、整片生成、参考片复刻和完整剧本制作五条路线；将其中四套接入统一总控，集中处理派单、审核、状态追踪、失败恢复和成片交付。
+- **AI 视频生产系统**：搭建分镜、UGC 口播、整片生成、参考片复刻和完整剧本制作五条路线；将其中四套接入统一总控，集中处理派单、审核、状态追踪、失败恢复和成片交付。
 - **视频分析与创意情报**：采集竞品广告与视频，拆解钩子、内容结构、受众和制作方式，形成结构化素材库与复刻建议；通过飞书承接批量分析、结果回写和人工复审。
 - **电商运营工具**：开发商品资料整理与 Shopify 上架、达人协作、AI 客服、广告规则监控与自动关停等工作流。
 - **竞品研究与网站改造**：通过浏览器自动化比较竞品网站，开展 Shopify 页面重构与优化；分析 Amazon 竞品评论，归纳客户痛点与改进方向。
@@ -25,3 +29,4 @@ I build practical AI workflows and software for e-commerce and content teams.
 Python · JavaScript / TypeScript · React / React Native · Node.js · SQLite · FFmpeg · 飞书 API · 多模态模型 API
 
 这里将持续整理可公开的匿名案例、独立演示和通用工具。
+
